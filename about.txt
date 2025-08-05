@@ -1,0 +1,5 @@
+Name: N.Sonali
+Course: BCA-A
+One key thing I learn about GitHub is: 
+GitHub is a platform for version control and collaboration.
+GitHub helps developers save versions of their code, work together efficiently, and avoid losing progress.
